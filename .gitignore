@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Docker
+.dockerignore
+.docker/
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+.vscode/
